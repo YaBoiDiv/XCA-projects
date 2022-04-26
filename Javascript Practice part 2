@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+    <loop> Count 10-1</loop>
+    
+    <body>
+        <h1>Penguin, Chicken, Cow, Horse, Dog, Cat</h1>
+// console.log (Penguin, Chicken, Cow, horse, Dog, Cat)
+<loop> Penguin, Chicken, Horse, Dog, Cat, Penguin</loop>
+
+
+<tr>
+    <th>Penguin</th>
+    <th>Chicken</th>
+    <th>Horse</th>
+</tr>
+<tr>
+    <th>Dog</th>
+    <th>Cat</th>
+    <th>Penguin</th>
+</tr>    
+
+</body>
+
+<body>
+
+    // Count from 0 to 100
+
+// initializer
+
+let number = 0
+
+// condition
+
+while(number 101) {
+
+    console.log(number)
+
+    // iterator
+
+    number = number + 1
+
+}
+</body>
